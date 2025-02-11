@@ -23,7 +23,7 @@
     "devDependencies": {
         "@tomphttp/bare-client": "^2.2.0-alpha",
         "css-tree": "^2.3.1",
-        "esbuild": "^0.18.11",
+        "esbuild": "^0.25.0",
         "eslint": "^8.28.0",
         "esotope-hammerhead": "^0.6.4",
         "events": "^3.3.0",
